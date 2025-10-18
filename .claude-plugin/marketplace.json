@@ -1,6 +1,6 @@
 {
-  "name": "claude-skills-plugin",
-  "description": "my claude plugins",
+  "name": "kfly8-claude-skills",
+  "description": "kfly8's claude plugins",
   "version": "1.0.0",
   "owner": {
     "name": "kfly8",
