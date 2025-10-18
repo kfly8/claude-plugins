@@ -1,8 +1,20 @@
 {
   "name": "claude-skills-plugin",
-  "description": "Greeting plugin to learn the basics",
+  "description": "my claude plugins",
   "version": "1.0.0",
-  "author": {
-    "name": "kfly8"
-  }
+  "owner": {
+    "name": "kfly8",
+    "email": "kentafly88@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "hono-skills",
+      "description": "Collection of Hono capabilities",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/hono"
+      ]
+    }
+  ]
 }
