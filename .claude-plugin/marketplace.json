@@ -1,0 +1,8 @@
+{
+  "name": "claude-skills-plugin",
+  "description": "Greeting plugin to learn the basics",
+  "version": "1.0.0",
+  "author": {
+    "name": "kfly8"
+  }
+}
