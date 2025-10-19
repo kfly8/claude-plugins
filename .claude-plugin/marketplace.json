@@ -9,12 +9,7 @@
   "plugins": [
     {
       "name": "hono-skills",
-      "description": "Collection of Hono capabilities",
-      "source": "./",
-      "strict": false,
-      "skills": [
-        "./skills/hono"
-      ]
+      "source": "./plugins/hono-skills"
     }
   ]
 }

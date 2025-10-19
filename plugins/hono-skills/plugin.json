@@ -1,0 +1,8 @@
+{
+  "name": "hono-skills",
+  "description": "Collection of Hono capabilities",
+  "version": "1.0.0",
+  "skills": [
+    "./skills/hono"
+  ]
+}
