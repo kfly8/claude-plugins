@@ -1,5 +1,5 @@
 ---
-name: Hono
+name: hono
 description: Assist with Hono web framework development using the hono CLI for documentation search, browsing, and testing requests without starting a server.
 ---
 

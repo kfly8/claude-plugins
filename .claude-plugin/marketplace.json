@@ -8,7 +8,7 @@
   },
   "plugins": [
     {
-      "name": "hono-skills",
+      "name": "hono",
       "description": "Collection of Hono capabilities",
       "source": "./",
       "strict": false,
