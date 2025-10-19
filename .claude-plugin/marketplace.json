@@ -1,7 +1,7 @@
 {
-  "name": "kfly8-claude-skills",
+  "name": "kfly8-claude-plugins",
   "description": "kfly8's claude plugins",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "owner": {
     "name": "kfly8",
     "email": "kentafly88@gmail.com"
