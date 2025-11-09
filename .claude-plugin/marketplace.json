@@ -8,8 +8,20 @@
   },
   "plugins": [
     {
+      "name": "bun-skills",
+      "source": "./plugins/bun-skills"
+    },
+    {
       "name": "hono-skills",
       "source": "./plugins/hono-skills"
+    },
+    {
+      "name": "mojolicious-skills",
+      "source": "./plugins/mojolicious-skills"
+    },
+    {
+      "name": "react-skills",
+      "source": "./plugins/react-skills"
     }
   ]
 }
