@@ -1,0 +1,8 @@
+{
+  "name": "react-skills",
+  "description": "Collection of React capabilities",
+  "version": "1.0.0",
+  "skills": [
+    "./skills/react"
+  ]
+}

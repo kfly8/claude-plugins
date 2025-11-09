@@ -1,0 +1,8 @@
+{
+  "name": "bun-skills",
+  "description": "Collection of Bun runtime capabilities",
+  "version": "1.0.0",
+  "skills": [
+    "./skills/bun"
+  ]
+}
